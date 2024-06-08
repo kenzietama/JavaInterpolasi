@@ -1,4 +1,4 @@
-Implementasi program Java untuk mencari solusi Sistem Persamaan Linier 3 Variabel dengan metode:
+Implementasi program Java untuk mencari solusi interpolasi dengan metode:
 
     metode polinom Lagrange
     metode polinom Newton
